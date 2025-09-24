@@ -17,8 +17,8 @@ case "$ARCH" in
         DNSTT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/menu-armv7"
         ;;
     armv8l)
-        DNSTT_CLIENT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/dnstt-client_armv8l"
-        DNSTT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/menu-armv8l"
+        DNSTT_CLIENT_URL="https://github.com/hahacrunchyrollls/dnstt-client/raw/refs/heads/main/dnstt-client_armv81"
+        DNSTT_URL="https://github.com/hahacrunchyrollls/dnstt-client/raw/refs/heads/main/menu-armv8l"
         ;;
     *)
         echo "Unsupported architecture: $ARCH"
