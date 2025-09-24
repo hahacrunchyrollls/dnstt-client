@@ -12,10 +12,10 @@ case "$ARCH" in
         DNSTT_CLIENT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/dnstt-client_arm64"
         DNSTT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/menu-arm64"
         ;;
-#    armv7l|armv7)
-#        DNSTT_CLIENT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/dnstt-client_armv7"
-#        DNSTT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/menu-armv7"
-#        ;;
+    armv7l|armv7)
+        DNSTT_CLIENT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/dnstt-client_armv7"
+        DNSTT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/menu-armv7"
+        ;;
     armv8l)
         DNSTT_CLIENT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/dnstt-client_armv8l"
         DNSTT_URL="https://raw.githubusercontent.com/hahacrunchyrollls/dnstt-client/main/menu-armv8l"
