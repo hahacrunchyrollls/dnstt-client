@@ -1,6 +1,9 @@
 ## DNSTT-CLIENT SCRIPT
 ## IF YOU DON'T HAVE TERMUX APK, DOWNLOAD TERMUX APK HERE:
 
+![Uploading image.png…]()
+
+
 ```
 https://github.com/termux/termux-app/releases
 ```
